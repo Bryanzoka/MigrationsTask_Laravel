@@ -20,3 +20,9 @@ DB_PASSWORD=suaSenha
 ```bash
 php artisan key:generate
 ```
+
+- Rode as migrations: 
+
+```bash
+php artisan migrate
+```
